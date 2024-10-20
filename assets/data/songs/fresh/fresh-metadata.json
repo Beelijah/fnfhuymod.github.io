@@ -1,0 +1,16 @@
+{
+  "version": "2.2.1",
+  "timeFormat": "ms",
+  "artist": "EGG",
+  "playData": {
+    "album": "volume1",
+    "stage": "mainStage",
+    "characters": { "player": "bf", "girlfriend": "gf", "opponent": "dad" },
+    "songVariations": ["erect"],
+    "difficulties": ["easy", "normal", "hard"],
+    "noteStyle": "funkin"
+  },
+  "songName": "The Final Fight",
+  "timeChanges": [{ "d": 4, "n": 4, "t": -1, "bt": [4, 4, 4, 4], "bpm": 143 }],
+  "generatedBy": "Chart Editor Import (FNF Legacy)"
+}
