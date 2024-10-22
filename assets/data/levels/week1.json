@@ -4,7 +4,7 @@
   "titleAsset": "storymenu/titles/week1",
   "props": [
     {
-      "assetPath": "storymenu/props/dad",
+      "assetPath": "storymenu/props/bf",
       "scale": 1.0,
       "offsets": [100, 60],
       "animations": [
